@@ -261,8 +261,8 @@ h3 {
 @media (max-width: 768px) {
 
     body {
-        background-image: url('../img/fondo.jpg');
-        background-size: 100% 100%;
+        background-image: url('../img/fondo_c.jpg');
+        background-size: 100% 98%;
         background-repeat: no-repeat;
         background-attachment: fixed;
         height: 100vh;
